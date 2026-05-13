@@ -14,10 +14,6 @@ TOKEN = os.getenv("TOKEN")
 # ---------------- QUESTIONS ----------------
 questions = [
 
-# ---------------- QUESTIONS ----------------
-questions = [
-
-
 # ---------------- PHYSIOLOGY (26–65) ----------------
 
 {"q":"ANP is released from:","options":["Ventricle","Atrium","Kidney","Brain"],"answer":1},
